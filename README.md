@@ -1,8 +1,20 @@
 
 
 
-<div align="center"><img width="196" height="252" alt="pony-town--dance-3-blinking-padded-toy12-4x" src="https://github.com/user-attachments/assets/3e2b1815-4b5b-4c53-8c95-3be6cdbac389" />
- THIS PAGE IS WIP!!
+<div align="center">
+ 
+<br>
+<img width="196" height="252" alt="pony-town--dance-3-blinking-padded-toy12-4x" src="https://github.com/user-attachments/assets/3e2b1815-4b5b-4c53-8c95-3be6cdbac389" />
+
+<br>
+ ┏━ 💛 ━━━━━━━━━━━━┓
+ <br>
+   Waffles > Pancakes!!
+   <br>
+ ┗━━━━━━━━━━━━ 💜 ━┛
+
+ 
+THIS PAGE IS WIP!!
 
 
      
