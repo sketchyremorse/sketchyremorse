@@ -2,9 +2,13 @@
 
 
 <div align="center">
+
  
 <br>
 <img width="196" height="252" alt="pony-town--dance-3-blinking-padded-toy12-4x" src="https://github.com/user-attachments/assets/3e2b1815-4b5b-4c53-8c95-3be6cdbac389" />
+
+<img width="2000" height="50" alt="Untitled design" src="https://github.com/user-attachments/assets/1c9b88dd-e15e-4948-8e32-6f59011e22f5" />
+
 
 <br>
  ┏━ 💛 ━━━━━━━━━━━━┓
