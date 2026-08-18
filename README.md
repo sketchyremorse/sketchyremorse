@@ -8,9 +8,15 @@
 <img width="196" height="248" alt="1000000570" src="https://github.com/user-attachments/assets/70d3d5df-fc8c-44fa-9fe0-cc260830195d" />
 
 
+<p align="center">
+<img src="https://hits.sh/github.com/sketchyremorse.svg?label=Leakers!!&extraCount=970&labelColor=19002f&color=1a0b3a" alt="Visitor count">
+<img src="https://img.shields.io/github/followers/sketchyremorse?style=flat&label=Spoilers!&labelColor=19002f&color=1a0b3a" alt="Profile followers">
+</p>
+<table>
+<tr>
+
 
 <img width="3000" height="50" alt="1000000569" src="https://github.com/user-attachments/assets/e73512fc-de5f-49f3-b9a1-491d49977c9e" />
-
 
 
 
