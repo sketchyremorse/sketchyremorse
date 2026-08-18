@@ -5,17 +5,20 @@
 
  
 <br>
-<img width="196" height="252" alt="pony-town--dance-3-blinking-padded-toy12-4x" src="https://github.com/user-attachments/assets/3e2b1815-4b5b-4c53-8c95-3be6cdbac389" />
-
-<img width="2000" height="50" alt="Untitled design" src="https://github.com/user-attachments/assets/1c9b88dd-e15e-4948-8e32-6f59011e22f5" />
+<img width="196" height="248" alt="1000000570" src="https://github.com/user-attachments/assets/70d3d5df-fc8c-44fa-9fe0-cc260830195d" />
 
 
-<br>
- ┏━ 💛 ━━━━━━━━━━━━┓
- <br>
-   Waffles > Pancakes!!
-   <br>
- ┗━━━━━━━━━━━━ 💜 ━┛
+
+<img width="3000" height="50" alt="1000000569" src="https://github.com/user-attachments/assets/e73512fc-de5f-49f3-b9a1-491d49977c9e" />
+
+
+
+
+$\color{#1a0b3a}{\textsf{┏━ 💛 ━━━━━━━━━━━━┓}}$
+
+ $\color{#253957}{\textsf{ Waffles > Pancakes!!}}$
+  
+$\color{#1a0b3a}{\textsf{┗━━━━━━━━━━━━ 💜 ━┛}}$
 
  
 THIS PAGE IS WIP!!
