@@ -3,6 +3,8 @@
 
 <div align="center">
 
+<pre>don't copy or post my ponies without permission!</pre>
+
  
 <br>
 <img width="196" height="248" alt="1000000570" src="https://github.com/user-attachments/assets/70d3d5df-fc8c-44fa-9fe0-cc260830195d" />
@@ -20,14 +22,28 @@
 
 
 
-$\color{#1a0b3a}{\textsf{┏━ 💛 ━━━━━━━━━━━━┓}}$
 
- $\color{#253957}{\textsf{ Waffles > Pancakes!!}}$
+
+$\color{#1b0b38}{\textsf{┏━ 💛 ━━━━━━━━━━━━┓}}$
+
+ $\color{#3e4449}{\textsf{ Waffles > Pancakes!!}}$
   
-$\color{#1a0b3a}{\textsf{┗━━━━━━━━━━━━ 💜 ━┛}}$
+$\color{#1b0b38}{\textsf{┗━━━━━━━━━━━━ 💜 ━┛}}$
+
+
+<IMG width="3000" height="50" alt="1000000569" SRC="https://github.com/user-attachments/assets/71532a99-8844-4fbb-8667-845b3228c3b7" />
+
+<kbd>stephcass!</kbd>
+
+![1000000569](https://github.com/user-attachments/assets/9dd593ba-d553-4894-a700-d5c4992fe9ba)
+
+
+<IMG width="3000" height="1500" alt="1000000552" SRC="https://github.com/user-attachments/assets/cf37e96c-4ee3-44da-b081-ffc8dadde158" />
+
+
 
  
-THIS PAGE IS WIP!!
+THIS PAGE IS A WIP!!
 
 
      
