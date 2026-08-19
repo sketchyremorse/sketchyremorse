@@ -36,6 +36,12 @@ $\color{#1b0b38}{\textsf{┗━━━━━━━━━━━━ 💜 ━┛}}$
 
 <kbd>stephcass!</kbd>
 
+<img width="315" height="396" alt="1000000582" src="https://github.com/user-attachments/assets/e7ce0182-9ff6-4a49-b600-65f1d62d4d76" />
+<img width="340" height="531" alt="1000000583" src="https://github.com/user-attachments/assets/970ec87e-8a6e-4094-96e7-65f29c01cdb8" />
+<img width="309" height="309" alt="1000000580" src="https://github.com/user-attachments/assets/155cf76d-1162-4bb9-b7d3-2981c8830dd8" />
+<img width="213" height="297" alt="1000000581" src="https://github.com/user-attachments/assets/7fba475c-3346-4369-a5d5-9968ab467d57" />
+
+
 <IMG width="3000" height="50" alt="1000000569" SRC="https://github.com/user-attachments/assets/71532a99-8844-4fbb-8667-845b3228c3b7" />
 
 
