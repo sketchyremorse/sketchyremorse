@@ -36,7 +36,7 @@ $\color{#1b0b38}{\textsf{┗━━━━━━━━━━━━ 💜 ━┛}}$
 
 <kbd>stephcass!</kbd>
 
-![1000000569](https://github.com/user-attachments/assets/9dd593ba-d553-4894-a700-d5c4992fe9ba)
+<IMG width="3000" height="50" alt="1000000569" SRC="https://github.com/user-attachments/assets/71532a99-8844-4fbb-8667-845b3228c3b7" />
 
 
 <IMG width="3000" height="1500" alt="1000000552" SRC="https://github.com/user-attachments/assets/cf37e96c-4ee3-44da-b081-ffc8dadde158" />
