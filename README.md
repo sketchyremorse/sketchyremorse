@@ -20,6 +20,12 @@
 
 <img width="3000" height="50" alt="1000000569" src="https://github.com/user-attachments/assets/e73512fc-de5f-49f3-b9a1-491d49977c9e" />
 
+[![CAKE.AVRIS](https://github.com/user-attachments/assets/c7ef8d9a-b416-4161-8df5-48c2fc4771b8)](https://cake.avris.it/gB3) 
+[![ATABOOK](https://github.com/user-attachments/assets/830f56d9-063b-4bb1-a93c-1b2af06bfda8)](https://multivisionary.atabook.org/) 
+[![PRONOUNS](https://github.com/user-attachments/assets/9e194c18-89fe-4935-958a-95407abbe8ba)](https://en.pronouns.page/@televisionaryy) 
+
+
+
 
 ![1000000575](https://github.com/user-attachments/assets/a5e4cbb2-53cd-4b40-bccb-809a1956cbf6)
 
