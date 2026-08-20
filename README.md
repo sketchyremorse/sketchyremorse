@@ -4,7 +4,7 @@
 <div align="center">
 
 <pre>don't copy or post my ponies without permission!</pre>
-
+<sub>some people may have problems with me , just know I'll treat them with respect.</sub>
  
 <br>
 <img width="196" height="248" alt="1000000570" src="https://github.com/user-attachments/assets/70d3d5df-fc8c-44fa-9fe0-cc260830195d" />
@@ -17,6 +17,20 @@
 <table>
 <tr>
 
+ $\color{#3e4449}{\textsf{read my DNIs and interests!}}$
+ <details>
+  <summary>DNIs</summary>
+Please do NOT int:
+  >Perverts , transphobes , homophobes , sexists , pedos , racists , ableists.
+  >Proshippers , darkshippers , NSFW , 14-15 below.
+
+  </details>
+  <details>
+  <summary>Interests</summary>
+Please int:
+>Filipinos , pianists , DC fans , batfam cosplayers , past & previous AvA and AvM fans , non-racial people , close friends , comfkins , or another that has mutual likings!
+
+  </details>
 
 <img width="3000" height="50" alt="1000000569" src="https://github.com/user-attachments/assets/e73512fc-de5f-49f3-b9a1-491d49977c9e" />
 
