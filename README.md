@@ -32,6 +32,12 @@ Please int:
 
   </details>
 
+   <details>
+  <summary>To my Friends:</summary>
+Hey everyone, I want to share a quick thought about how much you all mean to me. If you ever notice that I do not sit by or hang out with the same person every time, it is because I care about all of you equally. I think about my online friends a lot, and I never want to show favoritism or make anyone feel less valuable. I do not want to leave anyone out, nor do I ever want to replace my friends or be replaced by anyone. You all matter to me, and I just want everyone to feel welcome and included here.
+
+  </details>
+
 <img width="3000" height="50" alt="1000000569" src="https://github.com/user-attachments/assets/e73512fc-de5f-49f3-b9a1-491d49977c9e" />
 
 [![CAKE.AVRIS](https://github.com/user-attachments/assets/c7ef8d9a-b416-4161-8df5-48c2fc4771b8)](https://cake.avris.it/gB3) 
