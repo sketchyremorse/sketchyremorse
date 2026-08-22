@@ -68,6 +68,9 @@ $\color{#1b0b38}{\textsf{┗━━━━━━━━━━━━ 💜 ━┛}}$
 
 <IMG width="3000" height="50" alt="1000000569" SRC="https://github.com/user-attachments/assets/71532a99-8844-4fbb-8667-845b3228c3b7" />
 
+<img width="733" height="161" alt="1000000698" src="https://github.com/user-attachments/assets/ba2b0de6-4c13-474a-8c67-033db128f5a4" />
+
+<IMG width="3000" height="50" alt="1000000569" SRC="https://github.com/user-attachments/assets/71532a99-8844-4fbb-8667-845b3228c3b7" />
 
 <IMG width="3000" height="1500" alt="1000000552" SRC="https://github.com/user-attachments/assets/cf37e96c-4ee3-44da-b081-ffc8dadde158" />
 
