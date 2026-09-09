@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<pre>don't copy or post my ponies without permission!</pre>
+<pre>don't copy or post my ponies without permission(HEAVY INSPO IS A HEAVY NO!!!!)!</pre>
 <sub>some people may have problems with me , just know I'll treat them with respect.</sub>
  
 
