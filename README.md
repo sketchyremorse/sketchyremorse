@@ -58,7 +58,8 @@
            <p align="center">
              $\color{#B292D2}{\texttt{homophobes, nazis, zionists,}}$
             $\color{#B292D2}{\texttt{xenophobes, proshippers, darkshippers, incest, overly-religous people,}}$
-            $\color{#B292D2}{\texttt{INC members, people who call others "larpers" , problematic medias , etc.}}$
+            $\color{#B292D2}{\texttt{INC members, people who call others "larpers" , problematic medias ,}}$
+             $\color{#B292D2}{\texttt{etc.}}$
            </p>
           </details>
         </p>
