@@ -68,7 +68,7 @@
         <p align="center">
 <img alt="Untitled83_20261009174226" src="https://github.com/user-attachments/assets/a67827c1-4940-4156-8625-ebb693dac1b1" />
 <br>
-          $\color{#280072}{\texttt{XVII, polysexual & bisexual. it's alright to flirt/partner, just avoid mentioning sexual activities.}}$
+          $\color{#280072}{\texttt{XVII, polysexual and bisexual. it's alright to flirt/partner, just avoid mentioning sexual activities.}}$
         </p>
       </td>
     </tr>
