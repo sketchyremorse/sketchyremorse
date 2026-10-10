@@ -80,33 +80,96 @@
     <summary>friends</summary>
       addle
       amber
+    alicen
+    alto
       andre
       andy
       ashley
+    blue
+    candy
+    cicit
+    chazz
+    clark
+    clore
+    chuuya
       danny
+    debil
+    draco
+    dorma
       eddle
+    evan
+    exicrise
       geode
       glitch 
       hannah
+    hal
+    heavy
+    heyla
       implusive
+    jackson
+    jaw
+    jeep
+    joe
+    jojo
+    jose
+    kamz
+    karen
+    kershun
+    kinger
+    kitty
+    kristine
+    kyle
+    leko
+    lenari
+    lattes
+    luna
+    lunar
       magda
+    mano
       maple
+    marcie
       matti
+    mega
       megi
+    mellow
+    meredita
       mhey
+     micha
+    molly
+    moonie
+    morgan
       mysterious
+    naomi
+    nic
+    ning
+    nor
+    norrie
+    penut
+    percy
       player2023
       phase
+    precious
+    purpur
+    questionable
+    rebby
       ren
+    rosalyn
       sallie
+    scissors
       seth
       seb
       shane
       sleepy
       solar
+    snapdragons
+    sodo
+    steam
+    stup
       sulmarin
       sylve
+      thali
       val
+    vajas
       wato
       winx
       wifie
