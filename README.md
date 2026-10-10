@@ -77,6 +77,7 @@
   </table>
 </p>
   <p align=center">
+    <details>
     <summary>friends</summary>
       addle
       amber
@@ -174,6 +175,7 @@
       winx
       wifie
       yato
+    </details>
     </p>
   <br>
   <br>
