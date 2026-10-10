@@ -76,6 +76,42 @@
     </tr>
   </table>
 </p>
+  <p align=center">
+    <summary>friends</summary>
+      addle
+      amber
+      andre
+      andy
+      ashley
+      danny
+      eddle
+      geode
+      glitch 
+      hannah
+      implusive
+      magda
+      maple
+      matti
+      megi
+      mhey
+      mysterious
+      player2023
+      phase
+      ren
+      sallie
+      seth
+      seb
+      shane
+      sleepy
+      solar
+      sulmarin
+      sylve
+      val
+      wato
+      winx
+      wifie
+      yato
+    </p>
   <br>
   <br>
 <br>
