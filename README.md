@@ -79,38 +79,37 @@
   <p align=center">
     <details>
     <summary>friends</summary>
-      addle
-      amber
-    alicen
-    alto
-      andre
-      andy
-      ashley
-    blue
-    candy
-    cicit
-    chazz
-    clark
-    clore
-    chuuya
-      danny
-    debil
-    draco
-    dorma
-      eddle
-    evan
-    exicrise
-      geode
-      glitch 
-      hannah
-    hal
-    heavy
-    heyla
-      implusive
-    jackson
-    jaw
+      addle <br>
+      amber<br>
+    alicen <br>
+    alto<br>
+      andre<br>
+      andy<br>
+      ashley<br>
+    blue<br>
+    candy<br>
+    cicit<br>
+    chazz <br>
+    clark<br>
+    clore <br>
+    chuuya <br>
+      danny<br>
+    debil <br>
+    debil<br>
+      eddle <br>
+      evan<br>
+    exicrise <br>
+      geode<br>
+      glitch <br>
+      hannah<br>
+    hal<br>
+    heavy<br>
+    heyla <br>
+      implusive    <br>
+      jackson<br>
+    jaw<br>
     jeep
-    joe
+      joe
     jojo
     jose
     kamz
@@ -152,29 +151,54 @@
     precious
     purpur
     questionable
+  rainbow
+      random
     rebby
       ren
+      rhia
     rosalyn
+      riddledbatz
+      rissa
       sallie
     scissors
+      scene
       seth
       seb
       shane
+      shaina
+      shapeshifter
+      sharkiez
+      sky
       sleepy
+      sly
+      snapdragons
       solar
-    snapdragons
-    sodo
+      sonic
+  sodo
+    sora
+      star
+      starry
     steam
+      storm
     stup
       sulmarin
+      super
+      sus
       sylve
       thali
+      tributary
       val
     vajas
+      vesper
+      vee
+      vicktoria
       wato
       winx
       wifie
+      xavi
       yato
+      yuri
+      zem
     </details>
     </p>
   <br>
