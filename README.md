@@ -21,6 +21,8 @@
   <br>
 <br>
 <br>
+  
+  $\color{#C10072}{{⌢⌢}}$[αтαвσσκ](https://multivisionary.atabook.org/)$\color{#C10072}{{⌣⌣}}$[ρяσиσʋиƨ](https://en.pronouns.page/@televisionaryy)$\color{#C10072}{{⌣⌣}}$[cακɛ.αʌяιƨ](https://cake.avris.it/gB3)$\color{#C10072}{{⌣⌣}}$[ƨтяαωραɢɛ](https://pixelatedarchives.straw.page)$\color{#C10072}{{⌢⌢}}$
   <br>
   <br>
 <p align="center">
