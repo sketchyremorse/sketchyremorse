@@ -161,10 +161,5 @@
   <br>
   <p align="center">
     <img alt="Untitled91_20261019212120" src="https://github.com/user-attachments/assets/814a9133-7bf8-422e-82c7-123353a25078" />
-<br>
- ˖⋆࿐໋𑂘ӄꮛƗɕꚕⴁⴁ.ᐟ˙⋆✶   
-   ┈ᯓ★๋࣭⭑ 𑂘ꚕꮛ / ꚕꮛ𐑾
-    ˗ˏˋ ꒰ love you @Batmanzz-Aerisz ꒱ ˎˊ-
-     ^- ˕ -^Ⳋ : @sweetdeathstar, @PYRlTE, @Ilikegeodes, @oraclegordon, @hood-net, @timstalkerdrake, @vaciIIator, @SOILMENT @bumblebeecher
   </p>
 </div>
