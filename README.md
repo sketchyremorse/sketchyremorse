@@ -6,6 +6,10 @@
   <br>
 <br>
 <kbd>please be aware that all of the contents in this read.me is edited by me!</kbd>
+  <details>
+  <summary>number of repositories 😨</summary>
+    <img alt="Screenshot_20261021-213804" src="https://github.com/user-attachments/assets/5c16f753-e6f9-4a42-b3d0-1b2abeb12ea4" />
+  </details>
   <br>
   <br>
   <img alt="Untitled91_20261019224727" src="https://github.com/user-attachments/assets/96919efd-4db3-43fa-b959-644b55de94cb" />
