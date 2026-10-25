@@ -9,6 +9,10 @@
   <details>
   <summary>number of repositories 😨</summary>
     <img alt="Screenshot_20261021-213804" src="https://github.com/user-attachments/assets/5c16f753-e6f9-4a42-b3d0-1b2abeb12ea4" />
+    <details>
+      <summary>why sketch(y)?</summary>
+      <img alt="Screenshot_20261025-095029" src="https://github.com/user-attachments/assets/9aece3ca-cce0-4277-8285-82cef7b4baea" />
+    </details>
   </details>
   <br>
   <br>
