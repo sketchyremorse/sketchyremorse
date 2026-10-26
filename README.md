@@ -14,6 +14,18 @@
       <summary>why sketch(y)?</summary>
       <img alt="Screenshot_20261025-095029" src="https://github.com/user-attachments/assets/9aece3ca-cce0-4277-8285-82cef7b4baea" />
     </details>
+  <details>
+    <summary>I love giving gitHub read.mes and these are the ones I am doing/done</summary>
+    <a href="https://github.com/Ilikegeodes"><sub> @Ilikegeodes</sub> Geode! also Damian Wayne!</a> <br>
+    <a href="https://github.com/sweetdeathstar<"><sub> @sweetdeathstar</sub> Ren! also Cassandra Cain</a><br>
+    <a href="https://github.com/vaciIIator"><sub> @vaciIIator</sub> Valorie! also Johnny storm/Jean Grey/Jason Todd!</a><br>
+    <a href="https://github.com/batmanzz-Aerisz"><sub> @batmanzz-Aerisz</sub> Wifi/Bats! also Batman!</a><br>
+    <a href="https://github.com/oraclegordon"><sub> @oraclegordon</sub> Phaser! also Barbara Gordon!</a><br>
+    <a href="https://github.com/SOILMENT"><sub> @SOILMENT</sub> Amber! also Oracle/Wanda!</a><br>
+    <a href="https://github.com/SharksAtlantic"><sub> @SharksAtlantic</sub> Shark! also Jason Todd!</a><br>
+    <a href="https://github.com/the-best-chicken-nugget"><sub> @the-best-chicken-nugget</sub> Nugget! also Starfire!</a><br>
+    <a href="https://github.com/hood-net"><sub> @hood-net</sub> Seb! also Jason Todd!</a><br>
+  </details>
   <br>
   <br>
   <img alt="Untitled91_20261019224727" src="https://github.com/user-attachments/assets/96919efd-4db3-43fa-b959-644b55de94cb" />
