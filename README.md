@@ -182,4 +182,77 @@
   <p align="center">
     <img alt="Untitled91_20261019212120" src="https://github.com/user-attachments/assets/814a9133-7bf8-422e-82c7-123353a25078" />
   </p>
+    <details>
+    <summary>what</summary>
+      <details>
+      <summary>are</summary>
+        <details>
+        <summary>you</summary>
+          <details>
+            <summary>looking</summary>
+            <details>
+            <summary>for</summary>
+              <details>
+                <summary>...</summary>
+    <p align="center">
+        <table>
+            <tr>
+        <kbd>ss</kbd>
+          <td>
+        <img width="226" height="124" alt="1793333538879" src="https://github.com/user-attachments/assets/34755f99-5fd2-471b-bdf7-00f7b422061c" />
+<img width="226" height="124" alt="1793333567268" src="https://github.com/user-attachments/assets/da3cbc39-e4ce-4a9f-9888-8868d927852c" />
+<img width="226" height="124" alt="1793333628877" src="https://github.com/user-attachments/assets/4045da73-0331-40b2-9201-0b4e259b31b3" />
+<img width="226" height="124" alt="1793333647466" src="https://github.com/user-attachments/assets/aae73b00-d0c2-4181-b6fb-0b55942af7c8" />
+<img width="226" height="124" alt="1793333675903" src="https://github.com/user-attachments/assets/75a25344-bcfe-4f02-bd3f-5979e0927fb6" />
+<img width="226" height="124" alt="1793333791682" src="https://github.com/user-attachments/assets/529178c2-d770-4734-9e1c-eb9ac0cbea35" />
+<img width="226" height="124" alt="1793333804532" src="https://github.com/user-attachments/assets/f2a66dbb-3c35-47b0-82eb-3eb6669291f8" />
+<img width="226" height="124" alt="1793333829655" src="https://github.com/user-attachments/assets/be72628d-bbd7-48b2-964d-9a39082166f2" />
+<img width="226" height="124" alt="1793333842208" src="https://github.com/user-attachments/assets/aebfe634-2b58-4c6e-8e49-4ce6ca7bd4b8" />
+<img width="226" height="124" alt="Screenshot_20261030-125707" src="https://github.com/user-attachments/assets/498c9e28-e435-4657-ac5e-3284237d84d4" />
+<img width="226" height="124" alt="Screenshot_20261031-151024" src="https://github.com/user-attachments/assets/e25781b3-8125-43d5-9e26-17e830b1aea0" />
+<img width="226" height="124" alt="Screenshot_20261101-121407" src="https://github.com/user-attachments/assets/6ea1ec65-60a2-4cce-90ed-69c934e6e49a" />
+        </details>
+          </td>
+        </tr>
+      </table>
+    </p>
+                <details>
+                  <summary>I love y'all platonically..</summary>
+                  <table>
+                    <tr>
+                    <td>
+                  <details>
+                    <summary>long-term friends...</summary>
+                    ndbdhxhx
+                  </details>
+                    </td>
+                      <td>
+                        <details>
+                          <summary>c+hers</summary>
+                        </details>
+                      </td>
+                      <td>
+                        <details>
+                          <summary>discord-connected</summary>
+                        </details>
+                      </td>
+                      <TD>
+                        <details>
+                        <summary>people I have met f2f</summary>
+                        </details>
+                      </TD>
+                      <TD>
+                        <details>
+                        <summary>other fandom friends</summary>
+                        </details>
+                      </td>
+                    </tr>
+                  </table>
+              </details>
+            </details>
+          </details>
+        </details>
+      </details>
+    </details>
+    
 </div>
