@@ -223,27 +223,80 @@
                     <td>
                   <details>
                     <summary>long-term friends...</summary>
-                    ndbdhxhx
+                    penut
+                    phase
+                    mhey
+                    joe
+                    sallie
+                    alto
+                    Karen
+                    grace
+                    clore
+                    sky
+                    percy 
+                    dorma
+                    tabi
+                    mano
+                    dotor 
+                    pipsqueak 
+                    lunar
+                    rainbow
+                    sky
+                    heyla
+                    zawiwi
                   </details>
                     </td>
                       <td>
                         <details>
                           <summary>c+hers</summary>
+                          vee
+                          jay
+                          ren
                         </details>
                       </td>
                       <td>
                         <details>
                           <summary>discord-connected</summary>
+                          matti
+                          val
+                          ren
+                          phase
+                          amber
+                          leko
+                          seb 
+                          marcie
+                          purpur
                         </details>
                       </td>
                       <TD>
                         <details>
                         <summary>people I have met f2f</summary>
+                          phase
+                          danny
                         </details>
                       </TD>
                       <TD>
                         <details>
                         <summary>other fandom friends</summary>
+                          penut
+                          zawiwi
+                          heyla
+                          kiku
+                          wato
+                          purpur
+                          mhey
+                          Karen
+                          vajas 
+                          vesper
+                          candy
+                          rainbow
+                          kyle
+                          joe
+                          mano
+                          dorma
+                          pipsqueak 
+                          grace
+                          lunar
                         </details>
                       </td>
                     </tr>
