@@ -76,6 +76,29 @@
       <a href="https://github.com/c4k3lly-x"><img src="https://img.shields.io/badge/%20carrie kelly-FFD39D?style=flat&textColor=black"> </a>
         <a href="https://github.com/bread-ish"><img src="https://img.shields.io/badge/%20bread-C4508D?style=flat&textColor=white"> </a>
     <br>
+    <details>
+      <summary>DNI....</summary>
+     <table>
+       <tr>
+         <td>
+         $\color{#FFD39D}{\texttt{  25 y.o.+ }}$ <br>≤br>
+         $\color{#FFD39D}{\texttt{  incest }}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ batcest }}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ homophobes  }}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ nazis}}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ zionists}}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ xenophobes}}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ proshippers }}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ darkshippers}}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ overly-religous people}}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ INC members}}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ people who call others "larpers"}}$<br>≤br>
+          $\color{#FFD39D}{\texttt{ problematic medias}}$<br>≤br>
+         </td>
+       </tr>
+     </table>
+    </details>
+    <br>
     <br>
   <p align="center">
     <img alt="Untitled91_20261019224727" src="https://github.com/user-attachments/assets/96919efd-4db3-43fa-b959-644b55de94cb" />
