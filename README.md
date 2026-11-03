@@ -77,23 +77,23 @@
         <a href="https://github.com/bread-ish"><img src="https://img.shields.io/badge/%20bread-C4508D?style=flat&textColor=white"> </a>
     <br>
     <details>
-      <summary>DNI....</summary>
+      <summary>$\color{#FFD39D}{\texttt{DNI....}}$</summary>
      <table>
        <tr>
          <td>
-         $\color{#FFD39D}{\texttt{  25 y.o.+ }}$ <br>≤br>
-         $\color{#FFD39D}{\texttt{  incest }}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ batcest }}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ homophobes  }}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ nazis}}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ zionists}}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ xenophobes}}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ proshippers }}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ darkshippers}}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ overly-religous people}}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ INC members}}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ people who call others "larpers"}}$<br>≤br>
-          $\color{#FFD39D}{\texttt{ problematic medias}}$<br>≤br>
+         $\color{#FFD39D}{\texttt{  25 y.o.+ }}$ <br>
+         $\color{#FFD39D}{\texttt{  incest }}$<br>
+          $\color{#FFD39D}{\texttt{ batcest }}$<br>
+          $\color{#FFD39D}{\texttt{ homophobes  }}$<br>
+          $\color{#FFD39D}{\texttt{ nazis}}$<br>
+          $\color{#FFD39D}{\texttt{ zionists}}$<br>
+          $\color{#FFD39D}{\texttt{ xenophobes}}$<br>
+          $\color{#FFD39D}{\texttt{ proshippers }}$<br>
+          $\color{#FFD39D}{\texttt{ darkshippers}}$<br>
+          $\color{#FFD39D}{\texttt{ overly-religous people}}$<br>
+          $\color{#FFD39D}{\texttt{ INC members}}$<br>
+          $\color{#FFD39D}{\texttt{ people who call others "larpers"}}$<br>
+          $\color{#FFD39D}{\texttt{ problematic medias}}$<br>
          </td>
        </tr>
      </table>
