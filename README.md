@@ -16,16 +16,19 @@
     </details>
   <details>
     <summary>I love giving gitHub read.mes and these are the ones I am doing/done</summary>
-    <a href="https://github.com/Ilikegeodes"><sub> @Ilikegeodes</sub> Geode! also Damian Wayne!</a> <br>
-    <a href="https://github.com/sweetdeathstar<"><sub> @sweetdeathstar</sub> Ren! also Cassandra Cain</a><br>
-    <a href="https://github.com/vaciIIator"><sub> @vaciIIator</sub> Valorie! also Johnny storm/Jean Grey/Jason Todd!</a><br>
-    <a href="https://github.com/batmanzz-Aerisz"><sub> @batmanzz-Aerisz</sub> Wifi/Bats! also Batman!</a><br>
-    <a href="https://github.com/oraclegordon"><sub> @oraclegordon</sub> Phaser! also Barbara Gordon!</a><br>
+    <a href="https://github.com/Ilikegeodes"><sub> @Ilikegeodes</sub> Geode! also Damian Wayne!</a> ✓ <br>
+    <a href="https://github.com/sweetdeathstar<"><sub> @sweetdeathstar</sub> Ren! also Cassandra Cain</a> ✓ <br>
+    <a href="https://github.com/vaciIIator"><sub> @vaciIIator</sub> Valorie! also Johnny storm/Jean Grey/Jason Todd!</a> ✓ <br>
+    <a href="https://github.com/batmanzz-Aerisz"><sub> @batmanzz-Aerisz</sub> Wifi/Bats! also Batman!</a> <br>
+    <a href="https://github.com/oraclegordon"><sub> @oraclegordon</sub> Phaser! also Barbara Gordon!</a> ✓<br>
     <a href="https://github.com/SOILMENT"><sub> @SOILMENT</sub> Amber! also Oracle/Wanda!</a><br>
     <a href="https://github.com/SharksAtlantic"><sub> @SharksAtlantic</sub> Shark! also Jason Todd!</a><br>
     <a href="https://github.com/the-best-chicken-nugget"><sub> @the-best-chicken-nugget</sub> Nugget! also Starfire!</a><br>
     <a href="https://github.com/hood-net"><sub> @hood-net</sub> Seb! also Jason Todd!</a><br>
-  </details>
+    <a href="https://github.com/timstalkerdrake"><sub> @timstalkerdrake </sub> Matti! also Tim Drake!</a> <br>
+    <a href="https://github.com/bludhavenn"><sub> @bludhavenn </sub> Solar! Also Dick Grayson!</a> <br>
+    <a href="https://github.com/impulsivebart"><sub>@impulsivebart </sub> Allen! also Bart Allen!</a> <br>
+    </details>
   <br>
   <br>
   <img alt="Untitled91_20261019224727" src="https://github.com/user-attachments/assets/96919efd-4db3-43fa-b959-644b55de94cb" />
