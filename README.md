@@ -15,10 +15,6 @@
       <img alt="Screenshot_20261025-095029" src="https://github.com/user-attachments/assets/9aece3ca-cce0-4277-8285-82cef7b4baea" />
     </details>
   <details>
-<summary><img width="720" height="298" alt="1795225955233" src="https://github.com/user-attachments/assets/c999149c-602b-4f09-9772-23443cfd84f6" /></summary>
-gng i didn't even notice the birthdate I did but... I should try the ban out,,
-</details>
-
   <details>
     <summary>I love giving gitHub read.mes and these are the ones I am doing/done</summary>
     <a href="https://github.com/Ilikegeodes"><sub> @Ilikegeodes</sub> Geode! also Damian Wayne!</a> ✓ <br>
@@ -32,7 +28,8 @@ gng i didn't even notice the birthdate I did but... I should try the ban out,,
     <a href="https://github.com/hood-net"><sub> @hood-net</sub> Seb! also Jason Todd!</a><br>
     <a href="https://github.com/timstalkerdrake"><sub> @timstalkerdrake </sub> Matti! also Tim Drake!</a> <br>
     <a href="https://github.com/bludhavenn"><sub> @bludhavenn </sub> Solar! Also Dick Grayson!</a> <br>
-    <a href="https://github.com/impulsivebart"><sub>@impulsivebart </sub> Allen! also Bart Allen!</a> <br>
+    <a href="https://github.com/nightlessworld"><sub> @nightlessworld </sub> Magda! Also Black Canary!</a> <br>
+    <a href="https://github.com/impulsivebart"><sub> @impulsivebart </sub> Allen! also Bart Allen!</a> <br>
     </details>
   <br>
   <br>
