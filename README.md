@@ -15,7 +15,6 @@
       <img alt="Screenshot_20261025-095029" src="https://github.com/user-attachments/assets/9aece3ca-cce0-4277-8285-82cef7b4baea" />
     </details>
   <details>
-  <details>
     <summary>I love giving gitHub read.mes and these are the ones I am doing/done</summary>
     <a href="https://github.com/Ilikegeodes"><sub> @Ilikegeodes</sub> Geode! also Damian Wayne!</a> ✓ <br>
     <a href="https://github.com/sweetdeathstar<"><sub> @sweetdeathstar</sub> Ren! also Cassandra Cain</a> ✓ <br>
